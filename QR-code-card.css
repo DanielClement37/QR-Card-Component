@@ -20,6 +20,13 @@ body {
 	align-items: center;
 }
 
+@media screen and (max-width: 375px) {
+	.card-container {
+		width: 80%;
+	}
+}
+
+
 .card {
     padding:1rem
 }
